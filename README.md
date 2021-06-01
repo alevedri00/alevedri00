@@ -1,4 +1,4 @@
-### Geog W12 Lab7 Map
+### Geog W12 Lab7 Map Website
 This website shows my top 6 best colleges in the United States.
 <!--
 **alevedri00/alevedri00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
