@@ -1,4 +1,4 @@
-### Hi there 👋
+### Geog W12 Lab7 Map
 
 <!--
 **alevedri00/alevedri00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
